@@ -30,4 +30,12 @@ This project focuses on detecting multiple emotions from English text using a fi
 
 ---
 
+## 📦 Dependencies
+- transformers  
+- datasets  
+- scikit-learn  
+- torch  
+- seaborn  
+- matplotlib  
+- pandas
 
