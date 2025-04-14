@@ -42,15 +42,15 @@ This project focuses on detecting multiple emotions from English text using a fi
 ---
 
 ## 🧩 Future Work
-- 🔧 **Tune individual thresholds for emotion categories**
+- 🔧 **Tune individual thresholds for emotion categories :**
 Improve prediction accuracy by adjusting decision thresholds per label using cross-validation.
 
-- 🤖 **Try alternative models: RoBERTa, DeBERTa**
+- 🤖 **Try alternative models: RoBERTa, DeBERTa :**
 Evaluate the performance of other transformer architectures to potentially boost accuracy.
 
-- ⚖️ **Address label imbalance**
+- ⚖️ **Address label imbalance : **
 Use class weights or focal loss to handle rare emotion classes more effectively.
 
-- 🌐 **Deploy as an API using FastAPI or Streamlit**
+- 🌐 **Deploy as an API using FastAPI or Streamlit : **
 Turn the model into an interactive web app for real-time emotion prediction.
 
